@@ -7,8 +7,6 @@ I enjoy having some family time with my wife and dogs, but I also appreciate spe
 
 Professionally, before deciding to become a developer, I worked with projects in Business Process Management and Optimization, and later with Project Management implementing Robotic Process Automation... Then I realized I would be happier building things with my own hands, like a 21st century artisan, but with functions, objects and variables, as well as being part of a sector that changes the world everyday and all the time.
 
-When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing football :soccer: was also on that list, but quarantine has removed that for now. Memes are something that are appreciated very much. </p>
-
 <a href="https://www.linkedin.com/in/gillysdantas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://github.com/gillysayres"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
