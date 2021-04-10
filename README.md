@@ -33,4 +33,4 @@ Professionally, before deciding to become a developer, I worked with projects in
 
 ![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gillysayres&show_icons=true&include_all_commits=true)
 
-### Tech 
+##
