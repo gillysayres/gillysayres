@@ -28,3 +28,9 @@ Professionally, before deciding to become a developer, I worked with projects in
 <hr>
 
 <code>![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)</code> &nbsp;&nbsp;<code>![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)</code> &nbsp;&nbsp;<code>![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)</code> &nbsp;&nbsp;
+
+## 
+
+![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gillysayres&show_icons=true&include_all_commits=true)
+
+### Tech 
