@@ -1,5 +1,6 @@
-
+<!---
 <h2 align="center">Hello there! My name is Gillys</h2>
+
 <p text-align:  justify;>
 Since early in life I have always been passionate about technology, personal finances and games...
 
@@ -36,3 +37,4 @@ Professionally, before deciding to become a developer, I worked with projects in
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gillysayres&layout=compact)](https://github.com/gillysayres/github-readme-stats)
 
 ##
+-->
